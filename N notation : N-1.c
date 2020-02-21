@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(int argc, char** argv)
 {
-    int N;
+    int N; 
     long answer;
     char c;
     setbuf(stdout, NULL);
