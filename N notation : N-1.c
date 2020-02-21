@@ -1,12 +1,12 @@
 #include <stdio.h>
 int main(int argc, char** argv)
 {
-    int N;
+    int N; 
     long answer;
     char c;
     setbuf(stdout, NULL);
     scanf("%d",&N);
-    getchar();
+    getchar(); 
     c='0';
     switch (N) {
         case 2:
