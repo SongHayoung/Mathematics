@@ -22,7 +22,7 @@ void EEC(int A,int B){
         ++i;
         q[i] = (r[i-1]/r[i]);
     }
-    Show_Table();
+    Show_Table(); 
 }
 int main(int argc, char** argv)
 {
